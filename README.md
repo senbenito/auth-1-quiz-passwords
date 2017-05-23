@@ -5,28 +5,28 @@
 
 > What is identification?
 
-<!-- Answer here -->
+A way to tell the site who you are.
 
 > What is authentication?
 
-<!-- Answer here -->
+A way to prove you are who you claim to be.
 
 > What is authorization?
 
-<!-- Answer here -->
+This is what you can access once identification is authenticated.
 
 > What is your opinion on how identification and authentication are currently implemented in the industry?
 
-<!-- Answer here -->
+Mat says, and we will agree, that the current paradigm is deeply flawed (id = email?!?; password = ASCII garbage?!?!?).
 
 > What is your password?
 
-<!-- Answer here -->
+Not today, Mat.
 
 > If a customer asked for a set of rules for appropriate passwords, what advice would you give them?
 
-<!-- Answer here -->
+Go for length, not special characters and crap. Use a simple sentence!
 
 > What advice would you give loved ones for their own passwords?
 
-<!-- Answer here -->
+As above, and: use a unique password for your email. Use a password keeper like LastPass. NEVER give your password to anyone claiming to need it (except me and your HBO Go password).
